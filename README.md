@@ -14,11 +14,6 @@ This repository contains all lab exercise program files for the subject **DATABA
 - MongoDB (NoSQL)
 - Python (MySQL Connectivity)
 
-## 👨‍💻 Author
-
-Name : Shubham Shinde  
-Course : B.Tech
-
 ## 📅 Academic Year
 
 2024-25
